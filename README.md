@@ -2,7 +2,7 @@
 
 # Hi, I'm Shun Kodaira 🇯🇵
 
-**Physical AI / Robotics / AI Agents / Software Engineering**
+**Robotics / AI Agents / Software Engineering**
 
 Information engineering student at Nihon University, Japan. Building practical AI and robotic systems.
 
