@@ -4,7 +4,7 @@
 
 **Robotics / AI Agents / Software Engineering**
 
-Information engineering student at Nihon University, Japan. Building practical AI and robotic systems.
+Information engineering student, Japan. Building practical AI and robotic systems.
 
 </div>
 
