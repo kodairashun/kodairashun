@@ -37,16 +37,6 @@ Information engineering student in Japan. Building practical AI and robotic syst
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kodairashun&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodairashun&layout=compact&hide_border=true" height="165" alt="Top languages" />
-
-</div>
-
 ---
 
 <div align="center">
