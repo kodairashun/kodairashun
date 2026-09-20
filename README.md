@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Shun Kodaira
+# Hi, I'm Shun Kodaira🇯🇵
 
 **Physical AI / Robotics / AI Agents / Software Engineering**
 
