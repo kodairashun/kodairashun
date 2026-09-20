@@ -4,7 +4,7 @@
 
 **Physical AI / Robotics / AI Agents / Software Engineering**
 
-Information engineering student in Japan. Building practical AI and robotic systems.
+Information engineering student at Nihon University, Japan. Building practical AI and robotic systems.
 
 </div>
 
@@ -12,7 +12,7 @@ Information engineering student in Japan. Building practical AI and robotic syst
 
 ## About
 
-- Studying Information Engineering
+- Studying Applied Information Engineering at Nihon University
 - Focused on Physical AI, Robotics, and AI Agents
 - Learning ROS 2, computer vision, backend development, and modern AI systems
 - Building software and robotics projects through hackathons and team work
